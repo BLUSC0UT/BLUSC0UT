@@ -19,5 +19,14 @@
 <div align="center">
   
 $\color{#38618a}{\textsf{jerma or scoutㅤׂ      }}\qquad$
-$\color{#38618a}{\textsf{he      }}\qquad$
-$\color{#38618a}{\textsf{  /  him  }}\qquad$
+$\color{#38618a}{\textsf{he    }}\qquad$
+$\color{#38618a}{\textsf{ /  him  }}\qquad$
+
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">
+<img width="543" height="173" alt="image" src="https://github.com/user-attachments/assets/cd635bba-c699-463e-afb4-357c6d86150a" />
+
+$\color{#38618a}{\textsf{my pet sniper, isnt he so cute?}}\qquad$
