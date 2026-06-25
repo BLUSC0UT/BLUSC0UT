@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#38618a}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) $\color{#38618a}{\textsf{︶}}\qquad$ [alt](https://github.com/jerma985)
+<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#38618a}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) $\color{#38618a}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985)
 
 
 
