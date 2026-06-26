@@ -6,6 +6,10 @@
 <img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#38618a}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) $\color{#38618a}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985) $\color{#38618a}{\textsf{︶}}\qquad$ [other alt](https://github.com/skwistok)
 
 
+<br/>
+<br/>
+
+$\color{#38618a}{\textsf{i love tf2, ff2, eddsworld, homestuck, metalocalypse, hl2vrai, tc2, n alott more      }}\qquad$
 
 <img width="600" height="40" alt="image" src="https://github.com/user-attachments/assets/4109a6c9-50fe-421b-924c-106453a71642" />
 
