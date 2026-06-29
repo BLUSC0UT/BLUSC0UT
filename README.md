@@ -1,4 +1,5 @@
-<img width="400" height="300" alt="tumblr_22da692ca6a8692ec4b4e2669753e66c_dd0d3144_2048-removebg-preview" src="https://github.com/user-attachments/assets/7cf1dc3f-ef9f-4284-8b99-b00826bd7425" align="left" hspace="25"/>
+
+<img width="300" height="300" alt="image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/69c1b05c-c19e-44cc-bcac-2baeaa0894a8/dfody0p-b1918ca5-8715-482c-8d56-507ea19ec533.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82OWMxYjA1Yy1jMTllLTQ0Y2MtYmNhYy0yYmFlYWEwODk0YTgvZGZvZHkwcC1iMTkxOGNhNS04NzE1LTQ4MmMtOGQ1Ni01MDdlYTE5ZWM1MzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VMgnMhjKtUEdgESDX5SHGJk0Nh0tCALsSTQZ0dBfwzU" align="left" hspace="25"/>
 
 
 <div align="center">
