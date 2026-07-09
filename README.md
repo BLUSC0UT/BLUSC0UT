@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-$\color{#38618a}{\textsf{i love tf2, ff2, eddsworld, homestuck, wild kratts, metalocalypse, hlvrai, tc2, metal family      }}\qquad$
+$\color{#38618a}{\textsf{i love tf2, ff2, homestuck, metalocalypse, tc2, metal family      }}\qquad$
 
 <img width="600" height="40" alt="image" src="https://github.com/user-attachments/assets/4109a6c9-50fe-421b-924c-106453a71642" />
 
